@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This website is built using Reactjs amd its React state management like "useState" and hooks  like "useEffect".
+This website uses "Coinlore api service" for the extraction of "Crypto currency data" and arranged in tabular representation.
+The other features are implemented like as follows
+Searching based on the name or Id entered in the search bar.
+Sorting in ascending order and decending order for better control over required output.
+Implemented pagination for the table, allowing users to navigate through multiplepages of data. 
